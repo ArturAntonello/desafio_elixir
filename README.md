@@ -1,19 +1,11 @@
 # DesafioElixir
 
-To start your Phoenix server:
+Endpoints:
+-Criação de parte pessoa-física : OK
+-Criação de parte pessoa-juridica: OK
+-Criação de contratos: Lista de partes pendente
 
-  * Install dependencies with `mix deps.get`
-  * Create and migrate your database with `mix ecto.setup`
-  * Start Phoenix endpoint with `mix phx.server`
-
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: https://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Forum: https://elixirforum.com/c/phoenix-forum
-  * Source: https://github.com/phoenixframework/phoenix
+-Listagem de contratos com as partes de cada contrato separadas em grupos de pessoas fisicas e pessoas juridicas: Pendente
+-Listagem de pessoas fisicas: OK
+-Listagem de pessoas juridicas: OK
+-Listagem de contratos com filtros: Pendente
